@@ -1,0 +1,6 @@
+{
+  "name": "سامانه نظرات و شکایات پرسنل کارخانه",
+  "description": "سامانه ثبت انتقادات، پیشنهادات و شکایات کارکنان کارخانه همراه با پنل مدیریت حفاظت‌شده و دریافت گزارش ماهانه در قالب فایل اکسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
